@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sylvain
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on any project as long as it has originality
 - 📫 You can e-mail me at sylvainfoucault1@gmail.com
 
